@@ -4,6 +4,6 @@ use Magento\Framework\Component\ComponentRegistrar;
 
 ComponentRegistrar::register(
     ComponentRegistrar::MODULE,
-    'Marco_Demotheme',
+    'Marticos_Demotheme',
     __DIR__
 );

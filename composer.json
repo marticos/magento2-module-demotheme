@@ -1,5 +1,5 @@
 {
-    "name": "marco/module-demotheme",
+    "name": "marticos/module-demotheme",
     "description": "An helper module for the theme to create the necessesary cms blocks.",
     "type": "magento2-module",
     "version": "1.0.1",
@@ -15,14 +15,14 @@
             "registration.php"
         ],
         "psr-4": {
-            "Marco\\Demotheme\\": ""
+            "Marticos\\Demotheme\\": ""
         }
     },
     "extra": {
         "map": [
             [
                 "*",
-                "Marco/Demotheme"
+                "Marticos/Demotheme"
             ]
         ]
     }
