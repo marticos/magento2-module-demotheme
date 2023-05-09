@@ -1,6 +1,6 @@
 <?php
 
-namespace Marco\Demotheme\Setup;
+namespace Marticos\Demotheme\Setup;
 
 use Magento\Framework\Setup\InstallDataInterface;
 use Magento\Framework\Setup\ModuleContextInterface;
